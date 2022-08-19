@@ -10,6 +10,8 @@ Linnstrument Forum: https://www.kvraudio.com/forum/viewforum.php?f=263
 
 # Technical Links
 
+Official Github: https://github.com/rogerlinndesign/
+
 https://github.com/rogerlinndesign/linnstrument-firmware/blob/master/midi.txt
 
 https://github.com/rogerlinndesign/linnstrument-firmware/blob/master/user_firmware_mode.txt
